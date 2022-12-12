@@ -1,6 +1,6 @@
 /** Задать одномерный массив и найти в нем минимальный и максимальный элементы  */
 
-package org.example;
+package Work1;
 
 import java.util.Arrays;
 import java.util.Random;

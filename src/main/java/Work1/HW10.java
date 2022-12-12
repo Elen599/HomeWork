@@ -1,7 +1,7 @@
 /** Написать метод, принимающий на вход два аргумента: len и initialValue, и возвращающий одномерный массив типа int длиной len,
     каждая ячейка которого равна initialValue */
 
-package org.example;
+package Work1;
 
 import java.util.Arrays;
 import java.util.Scanner;
