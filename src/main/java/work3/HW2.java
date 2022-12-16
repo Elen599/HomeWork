@@ -4,7 +4,6 @@ package work3;
 
 import java.text.DecimalFormat;
 import java.util.ArrayList;
-import java.util.Collections;
 import java.util.Random;
 import java.util.Scanner;
 public class HW2 {
